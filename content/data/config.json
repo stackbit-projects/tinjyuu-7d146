@@ -19,12 +19,6 @@
                 "url": "/blog",
                 "style": "link",
                 "has_subnav": false
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "primary",
-                "has_subnav": false
             }
         ]
     },
